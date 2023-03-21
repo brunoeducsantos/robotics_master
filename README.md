@@ -7,8 +7,10 @@ The topics approach in this Master will be:
 - Path Planning for Autonomous Systems
 - Optimization Methods For Robotic
 - Sensors for Robotics
-- Deep Learning for Computer Vision
+- Deep Learning for 2D/3D Computer Vision
 - 3D Graphics
+- 3D SLAM
+
 
 |1st Trimester |2nd Trimester|3rd Trimester|4th Trimester| 5th Trimester| 6th Trimester| 7th Semester|
 | :---:   | :---: | :---: |:---: |:---: |:---:|:---:|
