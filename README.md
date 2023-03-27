@@ -34,3 +34,9 @@ The topics approached in this master will be:
 - [Luca Carlone](https://lucacarlone.mit.edu/)
 - [Justin Johnson](https://web.eecs.umich.edu/~justincj/)
 
+
+## Complementary Resources
+
+- [PyTorch Intro](https://learn.microsoft.com/en-us/training/paths/pytorch-fundamentals/)
+- [Linear Algebra Intro](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
+- [Calculus Intro](https://www.youtube.com/watch?v=f0BxAtprWts)
