@@ -32,4 +32,5 @@ The topics approached in this master will be:
 - [Matthias Niessner](https://www.cs.cit.tum.de/cg/people/niessner/)
 - [Ignacio Vizzo](https://github.com/nachovizzo)
 - [Luca Carlone](https://lucacarlone.mit.edu/)
+- [Justin Johnson](https://web.eecs.umich.edu/~justincj/)
 
